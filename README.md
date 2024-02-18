@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hawk1430
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web development fornt and backend
+- 🌱 I’m currently learning web development frontend
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 Reach me mail me at pr2125116@gmail.com
 
