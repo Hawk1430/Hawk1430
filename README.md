@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Prashant Raj @Hawk1430.
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development frontend
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 Reach me mail me at [Gmail](pr2125116@gmail.com)
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning web development frontend.
+- 💞️ I’m looking to collaborate on web development projects.
+- 📫 Reach me mail me at [(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pr2125116@gmail.com)
 
 
 **My Skills:**
