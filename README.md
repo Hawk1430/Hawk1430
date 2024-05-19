@@ -15,12 +15,16 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
 </div>
-<p>
-<a href="https://www.linkedin.com/in/arjyo-chakraborty-baa9351bb/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjyo851" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://www.instagram.com/arjyo74/?hl=en" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjyo851" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://www.hackerrank.com/arjyo77" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arjyo851" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://leetcode.com/arjyo77/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjyo851" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://auth.geeksforgeeks.org/user/arjyo77" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arjyo851" height="30" width="40" style="max-width: 100%;"></a> </p>
+<div>
+	<h3>Connect With Me</h3>
+	<p>
+		<a href="https://www.linkedin.com/in/arjyo-chakraborty-baa9351bb/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-		generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjyo851" height="30" width="40" style="max-width: 100%;"></a>
+		<a href="https://www.instagram.com/arjyo74/?hl=en" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjyo851" height="30" width="40" style="max-width: 100%;"></a>
+		<a href="https://www.hackerrank.com/arjyo77" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arjyo851" height="30" width="40" style="max-width: 100%;"></a>
+		<a href="https://leetcode.com/arjyo77/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjyo851" height="30" width="40" style="max-width: 100%;"></a>
+		<a href="https://auth.geeksforgeeks.org/user/arjyo77" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arjyo851" height="30" width="40" style="max-width: 100%;"></a> </p>
+</div>
+
 <!---
 Hawk1430/Hawk1430 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
