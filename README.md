@@ -2,8 +2,8 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning web development frontend.
 - 💞️ I’m looking to collaborate on web development projects.
-- 📫 Reach me mail me at <a href="pr2125116@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-- [https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](pr2125116@gmail.com)
+- 📫 Reach me mail me at <a href="mailto:pr2125116@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+- 
 
 
 
