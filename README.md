@@ -20,9 +20,9 @@
 <div>
 	<h3>Connect With Me</h3>
 	<p>
-		<a href="https://www.linkedin.com/in/arjyo-chakraborty-baa9351bb/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-		generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjyo851" height="30" width="40" style="max-width: 100%;"></a>
+		<a href="https://leetcode.com/u/pr2125116/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-		generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjyo851" height="30" width="40" style="max-width: 100%;"></a>
 		<a href="https://www.instagram.com/arjyo74/?hl=en" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjyo851" height="30" width="40" style="max-width: 100%;"></a>
-		<a href="https://www.hackerrank.com/arjyo77" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arjyo851" height="30" width="40" style="max-width: 100%;"></a>
+		<a href="https://www.hackerrank.com/profile/pr2125116" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pr2125116" height="30" width="40" style="max-width: 100%;"></a>
 		<a href="https://leetcode.com/arjyo77/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arjyo851" height="30" width="40" style="max-width: 100%;"></a>
 		<a href="https://auth.geeksforgeeks.org/user/arjyo77" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arjyo851" height="30" width="40" style="max-width: 100%;"></a> </p>
 </div>
