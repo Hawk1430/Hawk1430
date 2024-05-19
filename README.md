@@ -6,6 +6,7 @@
 
 
 Languages and Tools:
+c cplusplus express git html5 javascript mongodb nodejs python react bootstrap jquery
 <!---
 Hawk1430/Hawk1430 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
