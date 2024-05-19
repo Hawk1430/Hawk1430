@@ -5,7 +5,7 @@
 - 📫 Reach me mail me at pr2125116@gmail.com
 
 
-Languages and Tools:
+<b>Languages and Tools:</b>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!---
 Hawk1430/Hawk1430 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
