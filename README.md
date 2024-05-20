@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development frontend.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 Reach me mail me at <a href="mailto:pr2125116@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-- ![](https://komarev.com/ghpvc/?username=your-github-username&base=500)
+- ![](https://hit.yhype.me/github/profile?user_id=75322794)
   
 
 <hr> </hr>
