@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning web development frontend.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 Reach me mail me at <a href="mailto:pr2125116@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-- <img src="https://camo.githubusercontent.com/7ab5af3719a7faa65294c460ee68792ba412cc5f3b951b2ba1aa146a43486d7a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d61726a796f383531" alt="" data-canonical-src="![](https://hit.yhype.me/github/profile?user_id=75322794)" style="max-width: 100%;">
-  
+![](https://hit.yhype.me/github/profile?user_id=75322794)
 
 <hr> </hr>
 
